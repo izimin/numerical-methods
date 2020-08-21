@@ -1,0 +1,25 @@
+﻿  alglibinternal.cpp
+  alglibmisc.cpp
+  ap.cpp
+  dataanalysis.cpp
+  diffequations.cpp
+  fasttransforms.cpp
+  integration.cpp
+  interpolation.cpp
+  linalg.cpp
+  Main.cpp
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(121): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(122): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(323): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\onedrive\рабочий стол\чисмет\лабораторная работа №2\_lab2\_lab2\main.cpp(325): warning C4018: <: несоответствие типов со знаком и без знака
+  optimization.cpp
+  solvers.cpp
+  specialfunctions.cpp
+  statistics.cpp
+  Создание кода...
+  _Lab2.vcxproj -> C:\Users\zimin\OneDrive\Рабочий стол\ЧисМет\Лабораторная работа №2\_Lab2\Debug\_Lab2.exe

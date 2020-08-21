@@ -1,0 +1,19 @@
+﻿  Main.cpp
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(145): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(146): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(157): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(166): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(167): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(332): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(334): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(575): warning C4101: s: неиспользованная локальная переменная
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(607): warning C4101: s: неиспользованная локальная переменная
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(784): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(785): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(786): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\zimin\source\repos\_lab3\_lab3\main.cpp(787): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  _lab3.vcxproj -> C:\Users\zimin\source\repos\_lab3\Debug\_lab3.exe
